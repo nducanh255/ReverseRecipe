@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33693810090",
+    "project_id": "inversecooking-9ed56",
+    "storage_bucket": "inversecooking-9ed56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33693810090:android:94fa740789c94711c33fd3",
+        "android_client_info": {
+          "package_name": "com.inversecookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33693810090-s3534s502ruu5ivg4195vuicrfd8l7kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvC6HlG0zoCnJc5I7DPIeULBENaRL7QeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33693810090-s3534s502ruu5ivg4195vuicrfd8l7kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
